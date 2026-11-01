@@ -7,6 +7,7 @@ My leetcode solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Backtracking
@@ -63,4 +64,8 @@ My leetcode solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 <!---LeetCode Topics End-->
