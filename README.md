@@ -69,6 +69,7 @@ My leetcode solutions in java
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -80,4 +81,12 @@ My leetcode solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
