@@ -10,6 +10,7 @@ My leetcode solutions in java
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@ My leetcode solutions in java
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
