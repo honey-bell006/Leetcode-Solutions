@@ -9,6 +9,7 @@ My leetcode solutions in java
 | [0078-subsets](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -53,6 +54,7 @@ My leetcode solutions in java
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -62,6 +64,7 @@ My leetcode solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -74,6 +77,7 @@ My leetcode solutions in java
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -91,4 +95,12 @@ My leetcode solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 <!---LeetCode Topics End-->
