@@ -92,6 +92,7 @@ My leetcode solutions in java
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,4 +146,8 @@ My leetcode solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 <!---LeetCode Topics End-->
