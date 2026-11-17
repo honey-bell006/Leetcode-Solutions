@@ -9,6 +9,7 @@ My leetcode solutions in java
 | [0078-subsets](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0682-baseball-game](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -117,6 +118,7 @@ My leetcode solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
+| [0682-baseball-game](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Number Theory
@@ -167,6 +169,7 @@ My leetcode solutions in java
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
