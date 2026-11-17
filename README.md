@@ -37,6 +37,7 @@ My leetcode solutions in java
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -119,6 +120,7 @@ My leetcode solutions in java
 | ------- | ------- |
 | [0258-add-digits](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0682-baseball-game](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Number Theory
@@ -140,6 +142,7 @@ My leetcode solutions in java
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Binary Search
@@ -170,6 +173,7 @@ My leetcode solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
