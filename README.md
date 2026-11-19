@@ -15,6 +15,7 @@ My leetcode solutions in java
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -111,6 +112,7 @@ My leetcode solutions in java
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -169,6 +171,7 @@ My leetcode solutions in java
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
