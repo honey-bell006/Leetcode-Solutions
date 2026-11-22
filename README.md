@@ -42,6 +42,7 @@ My leetcode solutions in java
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
