@@ -11,6 +11,7 @@ My leetcode solutions in java
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0682-baseball-game](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
@@ -111,6 +112,7 @@ My leetcode solutions in java
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -205,6 +207,15 @@ My leetcode solutions in java
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
