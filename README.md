@@ -28,6 +28,7 @@ My leetcode solutions in java
 | [3693-climbing-stairs-ii](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +148,7 @@ My leetcode solutions in java
 | [2747-count-zero-request-servers](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +166,7 @@ My leetcode solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,4 +221,16 @@ My leetcode solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
