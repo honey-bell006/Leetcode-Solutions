@@ -29,6 +29,7 @@ My leetcode solutions in java
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3934-smallest-unique-subarray](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@ My leetcode solutions in java
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +192,7 @@ My leetcode solutions in java
 | ------- | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
