@@ -30,6 +30,7 @@ My leetcode solutions in java
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3934-smallest-unique-subarray](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ My leetcode solutions in java
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -129,6 +131,7 @@ My leetcode solutions in java
 | [2567-minimum-score-by-changing-two-elements](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,6 +196,7 @@ My leetcode solutions in java
 | [2567-minimum-score-by-changing-two-elements](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/honey-bell006/Leetcode-Solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
